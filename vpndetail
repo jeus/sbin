@@ -1,0 +1,4 @@
+#!/bin/bash
+echo 'sudo openconnect fr.cisadd2.com'
+echo 'user:ir304484'
+echo 'pass:747329'

@@ -1,0 +1,2 @@
+#!/bin/bash
+firefox /home/jeus/Downloads/swagger-ui-2.1.4/dist/index.html

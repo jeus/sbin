@@ -1,0 +1,4 @@
+#!/bin/bash
+xbacklight + 10
+notify-send --icon=info  "$(xbacklight)"
+
